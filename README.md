@@ -1,5 +1,7 @@
 #Path Finder Using Dijkstra Algorithm
 
+![Alt text](image.png)
+
 1)This Application uses Dijkstra Algorithm to find the Path between the Start Node and End Node.
 
 2)It gives a different maze pattern everytime the app resets.
